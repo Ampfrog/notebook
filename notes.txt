@@ -1,0 +1,9 @@
+File and dir management
+mv		move or rename
+cp		copy a file
+touch		create file (or updates mod time if exists)
+mkdir		create dir
+rmdir		delete dir
+rm		delete 
+rm -r <dir>	delete dir + all contents (recursive)
+rm -rf <dir>	force delete dir + all contents
