@@ -1,5 +1,9 @@
 GIT
 
-git init: 
+git init: creates a repository for the current directory
 
-git status: 
+git status: gets the list of tracked/untracked/staged files
+
+git add: add to stage
+
+git commit: move from stage to history
